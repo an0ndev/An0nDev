@@ -1,6 +1,10 @@
+Hey! :wave: I write code for... some reason, I guess. Fun? Sure, we'll go with that.
+
+
 ### What I'm working on
 HTStack: basically a super easy way to build and deploy web applications in C++.
 It works, sorta... the thread pool implementation is borked, and I'm missing some crucial HTTP/2 stuff like WebSockets.
+But it's a work-in-progress, and I'm updating it in my spare time.
 
 ### What's coming next
 I don't have a name for it yet but I want to write a data abstraction layer for applications.
@@ -17,6 +21,9 @@ Special thanks to [@connervieira](https://github.com/connervieira) for being a r
 so that's what I'm going for.
 
 ### Other cool stuff
+Check out [HealthBox](https://github.com/connervieira/HealthBox), an open source platform to centralize health information.
+
+### Social media
 Add me on Snapchat! hewwocraziness
 
 For business offers or other questions, send email to mrericcoolnessreed (at) gmail (dot) com.
