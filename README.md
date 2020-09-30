@@ -3,7 +3,7 @@ Hey! :wave: I write code for... some reason, I guess. Fun? Sure, we'll go with t
 
 ### What I'm working on
 HTStack: basically a super easy way to build and deploy web applications in C++.
-It works, sorta... the thread pool implementation is borked, and I'm missing some crucial HTTP/2 stuff like WebSockets.
+It works, sorta... I'm working on a better way to configure web applications at runtime, and I'm missing some crucial HTTP/2 stuff like WebSockets.
 But it's a work-in-progress, and I'm updating it in my spare time.
 
 ### What's coming next
