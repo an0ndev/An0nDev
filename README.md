@@ -2,9 +2,10 @@ Hey! :wave: I write code for... some reason, I guess. Fun? Sure, we'll go with t
 
 
 ### What I'm working on
-HTStack: basically a super easy way to build and deploy web applications in C++.
+~~HTStack: basically a super easy way to build and deploy web applications in C++.
 It works, sorta... I'm working on a better way to configure web applications at runtime, and I'm missing some crucial HTTP/2 stuff like WebSockets.
-But it's a work-in-progress, and I'm updating it in my spare time.
+But it's a work-in-progress, and I'm updating it in my spare time.~~ **(on hold)**
+SpeedPot: insanely performant Minecraft server written in C++ to target API version 47 (1.8.9). Currently only server list ping is implemented but eventually I want to have all vanilla features short of world generation.
 
 ### What's coming next
 I'm writing a data abstraction layer for applications.
