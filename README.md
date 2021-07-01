@@ -29,8 +29,4 @@ Check out [HealthBox](https://github.com/connervieira/HealthBox), an open source
 ### Social media
 Add me on Snapchat! hewwocraziness
 
-For business offers or other questions, send email to mrericcoolnessreed (at) gmail (dot) com.
-
-If it's urgent, text to 4403840834.
-
 Thanks! :heart:
