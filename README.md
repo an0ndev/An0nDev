@@ -8,6 +8,6 @@ I'm Eric, thanks for stopping by my profile :)
 
 - 💻 Portfolio: https://an0n.dev
 
-- 👨‍💻 *My username means "anonymous developer", although I have become less anonymous over the years :)*
+- 👨‍💻 *My username means "anonymous developer"; the zero is for swag points :)*
 
 My repos are hobbyist and mostly unmaintained; email any questions, comments, or concerns.
